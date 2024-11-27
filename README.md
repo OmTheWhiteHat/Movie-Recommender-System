@@ -1,6 +1,6 @@
 # Movie-Recommender-System
 Run this
-<strong>Movies Recommender System .ipynb</strong> in jupiter Notebook
+<strong>"Movies Recommender System .ipynb"</strong> in jupiter Notebook
 <pre>
 <code>
 # GitClone
