@@ -1,10 +1,11 @@
 # Movie-Recommender-System
-Run this
-<strong>"Movies Recommender System .ipynb"</strong> in jupiter Notebook
 <pre>
 <code>
 # GitClone
 https://github.com/OmTheWhiteHat/Movie-Recommender-System.git
+# extract the dataset.rar
+# Jupiter
+Run this <strong>"Movies Recommender System .ipynb"</strong> in jupiter Notebook
 cd "Movie-Recommender-System"
 # Install python modules
 pip install streamlit
